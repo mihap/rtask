@@ -1,0 +1,4 @@
+name backup_nati
+task_script /Users/mike/Ruby apps/rtask/example/backup_nati.sh
+mailto mike@b-com.co.il
+max_time 5
